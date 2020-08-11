@@ -1,0 +1,28 @@
+{
+  "name": "ibackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeSmile/ibackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeSmile/ibackend/issues"
+  },
+  "homepage": "https://github.com/BeSmile/ibackend#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "chalk": "^4.1.0",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^9.1.0",
+    "mongoose": "^5.9.28",
+    "mongoose-auto-increment": "^5.0.1"
+  }
+}
